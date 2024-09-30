@@ -1,0 +1,6 @@
+C:\Users\Алексей\source\repos\TDD_pr2\bin\Debug\TDD_pr2.dll
+C:\Users\Алексей\source\repos\TDD_pr2\bin\Debug\TDD_pr2.pdb
+C:\Users\Алексей\source\repos\TDD_pr2\obj\Debug\TDD_pr2.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\TDD_pr2\obj\Debug\TDD_pr2.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\TDD_pr2\obj\Debug\TDD_pr2.dll
+C:\Users\Алексей\source\repos\TDD_pr2\obj\Debug\TDD_pr2.pdb
